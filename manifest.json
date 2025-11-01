@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "patches": [
+    {
+      "file": "patch-1.mpq",
+      "url": "https://github.com/mnclaras/potato-wow-patches/releases/download/v1.0.0/patch-1.mpq",
+      "sha256": "TU_HASH_AQUI",
+      "size": 1048576
+    }
+  ]
+}
