@@ -3,8 +3,8 @@
   "patches": [
     {
       "file": "patch-K.mpq",
-      "url": "https://drive.google.com/uc?export=download&id=1TaX55xAVQnEfCVhMGfMbC2gXBWnCugEb&confirm=t",
-      "sha256": "0E29E18E673C537CD6BFE09F7FE2C9E9BF74B2FE28FDF1632A9D5C789F364E4D"
+      "url": "https://github.com/mnclaras/potato-wow-patches/releases/download/1.0.0/patch-K.mpq",
+      "sha256": "0e29e18e673c537cd6bfe09f7fe2c9e9bf74b2fe28fdf1632a9d5c789f364e4d"
     }
   ]
 }
